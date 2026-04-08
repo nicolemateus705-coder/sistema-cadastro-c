@@ -17,5 +17,4 @@ Praticar lógica de programação e estruturas básicas de dados.
 ```bash
 gcc main.c -o programa
 ./programa
-👨‍💻 Autor
-Nicole Mateus
+
