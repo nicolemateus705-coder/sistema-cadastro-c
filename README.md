@@ -1,5 +1,9 @@
 # 💻 Sistema de Cadastro em C
 
+👨‍💻 Autor
+
+Nicole Mateus
+
 Projeto simples em linguagem C que permite cadastrar, listar e buscar nomes utilizando vetor e busca sequencial.
 
 ## 🛠️ Funcionalidades
@@ -17,7 +21,3 @@ Praticar lógica de programação e estruturas básicas de dados.
 ```bash
 gcc main.c -o programa
 ./programa
-
-👨‍💻 Autor
-
-Nicole Mateus
