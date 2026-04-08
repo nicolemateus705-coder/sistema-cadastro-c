@@ -18,3 +18,6 @@ Praticar lógica de programação e estruturas básicas de dados.
 gcc main.c -o programa
 ./programa
 
+👨‍💻 Autor
+
+Nicole Mateus
